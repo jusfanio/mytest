@@ -76,8 +76,3 @@ When working on this project, follow these typical steps:
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
-```
-
-Feel free to customize this README file with specific details related to your project.
-
-
