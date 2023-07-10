@@ -1,0 +1,5 @@
+{
+  "prettier.requireConfig": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.semi": false
+}
