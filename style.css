@@ -1,0 +1,21 @@
+. {
+  margin: auto;
+}
+
+.btn {
+  border-radius: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.btn-success {
+  background-color: rgb(84, 84, 84);
+border: 0;
+}
+
+.btn-danger {
+  background-color: rgb(84, 84, 84);
+border: 0;
+}
