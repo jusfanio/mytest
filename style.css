@@ -19,3 +19,16 @@ border: 0;
   background-color: rgb(84, 84, 84);
 border: 0;
 }
+
+.btn-danger:hover {
+  background-color: rgb(235, 190, 29);
+border: 0;
+}
+
+.btn-outline-info {
+  background-color: cornflowerblue;
+  border: none;
+  color: white;
+  padding: 0.5rem;
+}
+
